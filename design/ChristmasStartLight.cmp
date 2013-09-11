@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CvPcb (2013-08-23 BZR 4296)-product date = 9/10/2013 7:57:30 PM
+
+BeginCmp
+TimeStamp = /522FB1CA;
+Reference = C1;
+ValeurCmp = 470uf;
+IdModule  = C1.5V8V;
+EndCmp
+
+BeginCmp
+TimeStamp = /522FB1E1;
+Reference = C2;
+ValeurCmp = 470uf;
+IdModule  = C1.5V8V;
+EndCmp
+
+BeginCmp
+TimeStamp = /522FB1EC;
+Reference = C3;
+ValeurCmp = 470uf;
+IdModule  = C1.5V8V;
+EndCmp
+
+BeginCmp
+TimeStamp = /522FBE3E;
+Reference = D1;
+ValeurCmp = LED3MM;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /522FBD90;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /522FBC9D;
+Reference = Q1;
+ValeurCmp = MPS2222A;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /522FBE09;
+Reference = R1;
+ValeurCmp = 220;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /522FBDF7;
+Reference = R2;
+ValeurCmp = 5.1K;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /522FBD26;
+Reference = U1;
+ValeurCmp = TCL555CP;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+EndListe
