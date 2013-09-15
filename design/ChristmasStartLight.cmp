@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-08-23 BZR 4296)-product date = 9/10/2013 7:57:30 PM
+Cmp-Mod V01 Created by CvPcb (2013-08-23 BZR 4296)-product date = 9/15/2013 12:18:45 AM
 
 BeginCmp
 TimeStamp = /522FB1CA;
@@ -54,6 +54,13 @@ TimeStamp = /522FBDF7;
 Reference = R2;
 ValeurCmp = 5.1K;
 IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /523530BD;
+Reference = SW1;
+ValeurCmp = MHSS1104;
+IdModule  = MHSS1104_MICROSWITCH_SPDT;
 EndCmp
 
 BeginCmp

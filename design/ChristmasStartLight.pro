@@ -1,11 +1,6 @@
-update=9/10/2013 7:19:47 PM
+update=9/15/2013 12:18:25 AM
 version=1
-last_client=eeschema
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
+last_client=cvpcb
 [pcbnew]
 version=1
 LastNetListRead=
@@ -26,7 +21,6 @@ DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
 [pcbnew/libraries]
-LibDir=
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -43,6 +37,8 @@ LibName13=led
 LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
+LibName17=bth-switch
+LibDir=
 [general]
 version=1
 [eeschema]
@@ -89,3 +85,9 @@ LibName29=contrib
 LibName30=valves
 LibName31=bth-transistor
 LibName32=bth-ic
+LibName33=bth-switch
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
