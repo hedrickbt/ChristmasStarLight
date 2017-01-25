@@ -1,4 +1,4 @@
-update=1/8/2017 7:53:02 PM
+update=1/19/2017 6:59:58 PM
 version=1
 last_client=kicad
 [general]
@@ -86,3 +86,13 @@ LibName31=valves
 LibName32=bth-transistor
 LibName33=bth-ic
 LibName34=bth-switch
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
