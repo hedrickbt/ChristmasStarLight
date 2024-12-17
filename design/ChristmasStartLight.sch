@@ -223,7 +223,7 @@ Wire Wire Line
 Wire Wire Line
 	1950 1250 2000 1250
 Text Notes 8150 7650 0    60   ~ 0
-1.9.2017
+1.24.2017
 Text Notes 10600 7650 0    60   ~ 0
 v3
 $Comp

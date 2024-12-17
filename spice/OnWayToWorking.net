@@ -1,0 +1,17 @@
+* C:\data\SpiderOak\projects\ChristmasStarLight\spice\OnWayToWorking.asc
+XU1 0 N001 OUT VCC NC_01 N001 NC_02 VCC NE555
+D1 N003 0 D
+R3 N003 N002 3.1k
+Q1 VCC N001 N002 0 NPN
+V2 VCC 0 9V
+R2 N001 OUT 300K
+C1 N001 0 22µF
+.model D D
+.lib C:\Users\hedrickbt\Documents\LTspiceXVII\lib\cmp\standard.dio
+.model NPN NPN
+.model PNP PNP
+.lib C:\Users\hedrickbt\Documents\LTspiceXVII\lib\cmp\standard.bjt
+.tran 0 100s 0 startup
+.lib NE555.sub
+.backanno
+.end
